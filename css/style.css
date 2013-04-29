@@ -1,0 +1,23 @@
+.container .nav-collapse .nav a , .container .brand{
+    font-weight: bold;
+    color: #EDF0F5;
+}
+body{
+    text-align: justify;
+}
+
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+.footer, .push {
+    height: 4em;
+}
